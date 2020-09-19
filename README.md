@@ -2,12 +2,14 @@
 
 
 ### Currently persuing B.Tech Computer Science at Sharda University(final year)
+
+##### Talking about personal stuff:
 - 🔭 I’m currently working on Natural Language Processing Project.
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 💬 Ask me about Python and Machine Learning
 - 📫 How to reach me: Contact No.-7017714336
 
-Looking for opportunities in Data Science and Machine Learning.
+Data Science enthusiast with good command in Python and working with data sets. Currently looking for internships in Data Science to get an exposure of real life projects and to get more hands on experience . Here is the list of skills and tools that I'm familiar with. 
 
 ### Skills and tools : 
 <img align='left' src='https://user-images.githubusercontent.com/33648836/93666059-b7921a80-fa98-11ea-80dc-3480276a761e.png' width='50px' height='50px' />
@@ -24,3 +26,5 @@ Looking for opportunities in Data Science and Machine Learning.
 [<img align='left' src='https://user-images.githubusercontent.com/33648836/93665200-42234b80-fa92-11ea-8a9c-409ad1506ac7.png' width='32px' height='32px' />](https://www.linkedin.com/in/himanshu-srivastava-191b4a1a7/)
 
 <a href='mailto:srivastavahimanshu3382118@gmail.com'><img align='left' src='https://user-images.githubusercontent.com/33648836/93665420-f83b6500-fa93-11ea-9abe-50686520322d.png' width='32px' height='32px'/> </a>
+
+#### Find some of my projects below:
