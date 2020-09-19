@@ -10,10 +10,10 @@
 Looking for opportunities in Data Science and Machine Learning.
 
 ### Skills and tools : 
-<img align='left' src='https://user-images.githubusercontent.com/33648836/93666059-b7921a80-fa98-11ea-80dc-3480276a761e.png)' width='32px' height='32px' />
+<img align='left' src='https://user-images.githubusercontent.com/33648836/93666059-b7921a80-fa98-11ea-80dc-3480276a761e.png' width='32px' height='32px' />
 <img align='left' src='https://user-images.githubusercontent.com/33648836/93666060-b95bde00-fa98-11ea-85ce-1f4dfb982290.png' width='32px' height='32px' />
 <img align='left' src='https://user-images.githubusercontent.com/33648836/93666061-b9f47480-fa98-11ea-9384-99d2ad22af18.png' width='32px' height='32px' />
-<img align='left' src='(https://user-images.githubusercontent.com/33648836/93666063-ba8d0b00-fa98-11ea-9c01-f53bd4e4342f.png' width='32px' height='32px' />
+<img align='left' src='https://user-images.githubusercontent.com/33648836/93666063-ba8d0b00-fa98-11ea-9c01-f53bd4e4342f.png' width='32px' height='32px' />
 <img align='left' src='https://user-images.githubusercontent.com/33648836/93666064-ba8d0b00-fa98-11ea-8702-f43386b380ca.png' width='32px' height='32px' />
 <img align='left' src='https://user-images.githubusercontent.com/33648836/93666065-bb25a180-fa98-11ea-8b7e-2303cc7adb8e.png' width='32px' height='32px' />
 
