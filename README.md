@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Himanshu Srivastava.
+## Hi there 👋  I'm Himanshu Srivastava.
 
 
 ### Currently persuing B.Tech Computer Science at Sharda University(final year)
